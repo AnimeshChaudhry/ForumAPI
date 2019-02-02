@@ -1,8 +1,7 @@
 '''
 NAME:       Animesh Chaudhry
-CWID:       889164513
 CLASS:      CPSC 476
-PROFESSOR:  Kenytt Averyo
+PROFESSOR:  Kenytt Avery
 ASSIGNENT:  Project 2
 DUE DATE:   Oct. 31, 2018
 '''
